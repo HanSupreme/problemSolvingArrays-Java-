@@ -1,7 +1,7 @@
 # problemSolvingArrays-Java-
 
-I will have solutions for the code below. Anyone is welcomed to contribute if they like.  
-                                                                                          |
+# I will have solutions for the code below. Anyone is welcomed to contribute if they like.  
+                                                                                          
 -------------------------------------------------------------------------------------------
 
 Write a JAVA program to read and print elements of array. - using recursion.
