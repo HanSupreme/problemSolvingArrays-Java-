@@ -1,6 +1,6 @@
 # problemSolvingArrays-Java-
 
-I will have solutions for the code below. Anyone is welcomed to contribute if they like.  
+I will have solutions for the code below. Anyone is welcomed to contribute if they like.  |
                                                                                           
 -------------------------------------------------------------------------------------------
 
