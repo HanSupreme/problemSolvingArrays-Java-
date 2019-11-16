@@ -1,4 +1,4 @@
-package MarcialChallenges;
+package GitHub;
 
 public class printAllNegativeNumbers {
 
@@ -22,6 +22,6 @@ public class printAllNegativeNumbers {
 
     } //closing braces for For-Loop
 
-} //closing braces for problemTwo() method
+} //closing braces for Main() method
 
-}
+} //closing braces for public class printAllNegativeNumbers;
