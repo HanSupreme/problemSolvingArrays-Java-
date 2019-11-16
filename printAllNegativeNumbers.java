@@ -1,6 +1,6 @@
 package MarcialChallenges;
 
-public class UploadToGitHub {
+public class printAllNegativeNumbers {
 
     public static void main(String[] args) {
 
