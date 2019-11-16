@@ -1,6 +1,6 @@
 package MarcialChallenges;
 
-public class UploadToGitHub {
+public class findMaximumElement {
 
     public static void main(String[] args) {
 
@@ -9,9 +9,8 @@ public class UploadToGitHub {
          * STATIC - can be used without having to create an instance
          * VOID - will return back nothing
          * The above is our method signature
-         * Our method name is problemThree(); <<
          *
-         * WRITE A JAVA PROGRAM TO FIND THE SUM OF ALL ARRAY ELEMENTS
+         * Write a JAVA program to find maximum element in an array
          */
 
         //find the maximum number in the for loop
