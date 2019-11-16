@@ -1,6 +1,6 @@
-package MarcialChallenges;
+package GitHub;
 
-public class UploadToGitHub {
+public class findSecondLargestElement {
 
     public static void main(String[] args) {
 
@@ -28,8 +28,5 @@ public class UploadToGitHub {
 
             System.out.println(secondLargest);
         }
-
     }
-
-
     }
