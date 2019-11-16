@@ -1,6 +1,6 @@
-package MarcialChallenges;
+package Github;
 
-public class UploadToGitHub {
+public class findSumOfAllArrayElements {
 
     public static void main(String[] args) {
 
